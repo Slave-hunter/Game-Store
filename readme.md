@@ -1,14 +1,14 @@
 # About this project
 
 Portfolio showcase
+## Frontend
 
-## Tech stack
-
-- Frontend
-- html
-- css
+## Tech stack 
+- tailwindcss
+- reactjs
+- typescript
 - js
-- bootstrap
+
 
 ### Preview
 
