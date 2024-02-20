@@ -1,18 +1,15 @@
+# About this project
 
-## Technologies Used
+Portfolio showcase
 
-- [ReactJS]
-- [Tailwind CSS]
-- [Vite]
+## Tech stack
 
+- Frontend
+- html
+- css
+- js
+- bootstrap
 
+### Preview
 
-### Prerequisites
-
-
-- [Node.js](https://nodejs.org/)
-
-### Installation
-
-npm install
-npm run dev
+![Preview](./Design/preview-1.png)
